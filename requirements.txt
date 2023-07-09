@@ -1,7 +1,6 @@
-numpy
-Flask
-sklearn
-scikit-learn
-click
-gunicorn
-importlib-metadata
+numpy;
+Flask;
+scikit-learn;
+click;
+gunicorn;
+importlib-metadata;
