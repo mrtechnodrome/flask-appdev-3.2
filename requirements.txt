@@ -1,0 +1,7 @@
+numpy
+Flask
+sklearn
+scikit-learn
+click
+gunicorn
+importlib-metadata
